@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -86,7 +86,7 @@ Dreams of pointer arithmetic at night</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14973 Commits
+                            14974 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -98,7 +98,7 @@ Dreams of pointer arithmetic at night</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            212 Pull requests opened
+                            213 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -132,7 +132,7 @@ Dreams of pointer arithmetic at night</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 7 users
+                            Following 8 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -194,7 +194,7 @@ Dreams of pointer arithmetic at night</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    149k added, 4.28k removed
+                                    217k added, 23.4k removed
                                 </div>
                             </section>
                             <section>
@@ -620,7 +620,7 @@ Dreams of pointer arithmetic at night</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~4.92
+                            Average per day at ~4.91
                         </div>
                     </section>
                 </div>
@@ -2580,7 +2580,12 @@ Dreams of pointer arithmetic at night</div>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
+                            <g transform="translate(-5.1, 8.8)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -2854,10 +2859,11 @@ Dreams of pointer arithmetic at night</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    7 followed
+                    8 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAV0lEQVR4nGMoYmCgBP2HgR319XBBhlFDi0bDlAF7QiEeDEtDb+/fv6O+Hg8ix9AdSEopzab/Rw0Fg9EwLRrBSYp4MJwM3YG3ZMKKptrbEzC0iDI0dAwFAMo1jalAA1nNAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFM0lEQVR4nO2UeUzTZxjHfwXKsWk4vILMTabGZeK5xc0dmYvOuC3EoWKEcMgQEQc6BSYoAhbK0YJIpS1HaUtbSi+g3NBWKFCOUkpb8OASy6lj6kZYzBJNvkv8jwwzl8XtHz7Jm+ef930/fzzf5yGIJZb4L7Czs3vlu7u2bz3t5eXl948ELi4uxJat24ljoZGkNIHSrrT/AZmjNZPj8wS24VdoNp9/uZ9YuXLVX96RyWQi5Pj+Xdvee/d9Z1fXV5Pt3vMpIe4esueZJlw4JuvKfOPdjapRa2zzyICA2WPZzDFZV/HME65i44RTqrDGzj/sHLH3wDfEj3QWma7ULG+/qw/hGu+9SVO22B847E96qcjGxoZIY3JJ8oEpN+PMk9xCQ08gpSG/MaM++1mM5ALS6qgI4pzA97yzj9tGzTMpjQWi9Oaa40z9oNdVZWfE2eJqYWmDdOASXzGXWN42T6nreZhab2S9VMguqyJxTePLVfemgwu6WlRCfeOzkdlJ5KpoUN1SQ9RnRkHPKFKaynAo62scYXhD1C2Gb3Lq8yMU5i/nGOyH+Qr+00hOBbI0JqRp+lFgmUpfVObk5ESI9KMOLMOtLT+UxY8l1YvB0/EQyPaBD2MfTnKPg1qThITqbJTpJYgvT4UfPQDFVVxEsWjysv7BPUoZLSGSpVAnVbWD3j4EtmVKzjFZ1ywq3LFzJ1FqmXSX9qtrU1UUtAw3Ik4RgYCib/Hdtf2o7JUhuPAIbmhy4Mc4hOsSGuRNCuz03oHgi6FT6payn6OLq/QJlTpkaO/8yjJa44rN4yvo4hrbBSJ3d3fiqF8gkcoSkjh9VjeGvjqPbSgBrfUsstqjkNEagWRVKJi6ZFT0FyO2MgDHKF9hl7cXDp48gdBof/AVRTjPq0Nyrf759a5hOccy/iGnd2zFiZhE2wUB+WTvPoJaUm5bYhl/g2cc2khVVOef5+TOp2sToR6pgvXJJGitUYitCsYZgS9OMn3hQ/HG0fgwnElLg0hZiMKmRqSo+nDDcL+hyDJxkGO2ruZ2DDqFX0pbmM7E7AKSwDztxDONvEOvbsjyp2TPUyWN032T08+7xg3Ia0tFrqoEVyQViMwTIYiaiXA6AyG0DBSV81Bj0CKn4xaSlFWgVcmmOWbrZq5pYllhfYftWg+Phf0Ki75C4psnlvH1poir0prZQDp/jlqnDyrpH/9M3GVqzZQIEJJJQ0B6EUKz+AimCXG5WIoybRM0wxbIB4dR0duD4Ycz+Ck/HTfv3G6uGJraHZ1xnXBdbNhL+sbWspp1aprGhKvVOpxiyqZjRE0VsWK1+hy3ZjacrcAFkQYZta2QdGhRP9AFoakSrN5StFu7MPLoPsZmZ1HQMYbIIh6SFdIzop6h1R7rNyw+b9nScuVFqRrXOkeQ0tAHSp0B2Y06cFt1f8h6DaPqoa7flRY+FGY+bnTzwehkQmxmIl+fBLY+GbWDcpzOicN5QQUSZIpCgWXCOewy5eUb5YM9H69lKJS+kp6BoMrubh95Z+cXMot1E6u+bVmJccz50e9PJ9utunGukT2T152B8tsSjD6excTcPMZ/m0PdUAMCKcE4lR2nzKxQO27etoP4WxwcHAjPDRsJEon04ry1bt2Lusbdg8iR1jpLb09u4pjvu7ANqhCmoS4mTy9hCC3KB+p7pn6xWTgj0zXXFtRq3Q77HvMi/i3rPT2J+KwCUlRSFoml1JBLKus+4mtNDrybRnt5zwiZyi4lv+3pSbi6udnb29vbEK8TR0fH1/r/Ekv8P/wJYhD1Mm38QM4AAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQIDBAYIB//EACwQAAIBAwIFAgUFAAAAAAAAAAEDAgQFEQAGEhMhIjFBYRQjUYGRMkKx0eH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAAxES/9oADAMBAAIRAxEAPwCY9MSOsRofO21VUpotzkrYuPHl+cY+2kbrvhs0KacECoW0kS7sYxj2P10JuO6aBaprqyuBp6jgknl97Y5ye/PTwPT01A5crfHVBlfHM0rLlTxuJuRUz4fhI5Pvn+tMQrqiYJjSvIz5x/ukbjqHW3a6Ll8O1YuL4BKxLv5YgcZJ+uqcyufUskydsaQTmPzD+k9R6e+nOfJo9djdzL4bv+xtj282tFTdkKrmcybVRYMwWCcYx6noD10e3LtCyXZq3VdBTmcOglGIB/I0R2s0nbkZYiCta8EDz8uHnUwwi+hilmTGSxkiRB/I07HMJDJtv0up992bab1aF2x8WgKHNUVtIKzg4P8AOs53mzpsleyhrFVTWL8MgzhEhnoca0wKtsbxd4iWAudNTx9omYifviR1T3WSguzJVdakTfOU8nx+46GpDFL7v//Z" width="28" height="28" alt="" />
@@ -3067,7 +3073,7 @@ Dreams of pointer arithmetic at night</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.66 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.97 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3095,7 +3101,7 @@ Dreams of pointer arithmetic at night</div>
                                     <span class="prefix">Super</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 686 pull requests</div>
+                                <div class="text">Opened 687 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3385,7 +3391,7 @@ Dreams of pointer arithmetic at night</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.673366834170854 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.452261306532663 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -3403,7 +3409,7 @@ Dreams of pointer arithmetic at night</div>
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 7 users</div>
+                                <div class="text">Following 8 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3559,7 +3565,7 @@ Dreams of pointer arithmetic at night</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2024, 00:07:53 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2024, 01:30:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
