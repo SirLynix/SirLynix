@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 320 users
+                            Followed by 321 users
                         </div>
                     </section>
                     <section>
@@ -194,7 +194,7 @@ Dreams of pointer arithmetic at night</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    146k added, 28.5k removed
+                                    235k added, 37.3k removed
                                 </div>
                             </section>
                             <section>
@@ -290,12 +290,12 @@ Dreams of pointer arithmetic at night</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 42 commits)</small>
+                    <small class="h-details">(computed from last 41 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.1 characters per line of code written</li>
+                        <li>Has approximately 32.0 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -406,19 +406,15 @@ Dreams of pointer arithmetic at night</div>
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,10.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">8</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,34.25)">
+                                <g class="tick" opacity="1" transform="translate(0,24.071428571428577)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">6</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,58)">
+                                <g class="tick" opacity="1" transform="translate(0,51.214285714285715)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,81.75)">
+                                <g class="tick" opacity="1" transform="translate(0,78.35714285714286)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text>
                                 </g>
@@ -427,59 +423,59 @@ Dreams of pointer arithmetic at night</div>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,10L29.565,93.125L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,93.125L166.522,105L186.087,105L205.652,105L225.217,81.25L244.783,57.5L264.348,81.25L283.913,105L303.478,93.125L323.043,81.25L342.609,69.375L362.174,33.75L381.739,105L401.304,93.125L420.87,93.125L440.435,33.75L460,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,57.5L440.435,33.75L420.87,93.125L401.304,93.125L381.739,105L362.174,33.75L342.609,69.375L323.043,81.25L303.478,93.125L283.913,105L264.348,81.25L244.783,57.5L225.217,81.25L205.652,105L186.087,105L166.522,105L146.957,93.125L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,93.125L10,10Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,10L29.565,91.429L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,91.429L166.522,105L186.087,105L205.652,105L225.217,77.857L244.783,50.714L264.348,77.857L283.913,105L303.478,91.429L323.043,77.857L342.609,64.286L362.174,23.571L381.739,105L401.304,91.429L420.87,91.429L440.435,23.571L460,50.714" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,50.714L440.435,23.571L420.87,91.429L401.304,91.429L381.739,105L362.174,23.571L342.609,64.286L323.043,77.857L303.478,91.429L283.913,105L264.348,77.857L244.783,50.714L225.217,77.857L205.652,105L186.087,105L166.522,105L146.957,91.429L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,91.429L10,10Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="93.125" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="88.26086956521739" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="93.125" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="225.2173913043478" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="244.7826086956522" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="81.25" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="225.2173913043478" cy="77.85714285714286" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="244.7826086956522" cy="50.714285714285715" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="77.85714285714286" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="303.4782608695652" cy="93.125" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="69.375" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="362.17391304347825" cy="33.75" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="303.4782608695652" cy="91.42857142857143" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="77.85714285714286" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="64.28571428571429" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="362.17391304347825" cy="23.571428571428577" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="93.125" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="420.8695652173913" cy="93.125" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="440.4347826086956" cy="33.75" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="460" cy="57.5" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="91.42857142857143" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="420.8695652173913" cy="91.42857142857143" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="440.4347826086956" cy="23.571428571428577" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="460" cy="50.714285714285715" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">8</text>
-                                <text transform="translate(10,6)" x="29.565217391304348" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">7</text>
+                                <text transform="translate(10,6)" x="29.565217391304348" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="88.26086956521739" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="146.95652173913044" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="146.95652173913044" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="225.2173913043478" y="81.25" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="244.7826086956522" y="57.5" fill="rgba(127, 127, 127, .8)">4</text>
-                                <text transform="translate(10,6)" x="264.3478260869565" y="81.25" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="225.2173913043478" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="244.7826086956522" y="50.714285714285715" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="264.3478260869565" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="303.4782608695652" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="323.04347826086956" y="81.25" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="342.60869565217394" y="69.375" fill="rgba(127, 127, 127, .8)">3</text>
-                                <text transform="translate(10,6)" x="362.17391304347825" y="33.75" fill="rgba(127, 127, 127, .8)">6</text>
+                                <text transform="translate(10,6)" x="303.4782608695652" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="323.04347826086956" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="342.60869565217394" y="64.28571428571429" fill="rgba(127, 127, 127, .8)">3</text>
+                                <text transform="translate(10,6)" x="362.17391304347825" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="401.30434782608694" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="420.8695652173913" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="440.4347826086956" y="33.75" fill="rgba(127, 127, 127, .8)">6</text>
-                                <text transform="translate(10,6)" x="460" y="57.5" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="401.30434782608694" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="420.8695652173913" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="440.4347826086956" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">6</text>
+                                <text transform="translate(10,6)" x="460" y="50.714285714285715" fill="rgba(127, 127, 127, .8)">4</text>
                             </g>
                         </svg>
                     </div>
@@ -534,14 +530,14 @@ Dreams of pointer arithmetic at night</div>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,75.769L41,53.846L72,10L103,46.538L134,75.769L165,97.692L196,68.462" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,68.462L165,97.692L134,75.769L103,46.538L72,10L41,53.846L10,75.769Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,75.769L41,53.846L72,10L103,46.538L134,83.077L165,97.692L196,68.462" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,68.462L165,97.692L134,83.077L103,46.538L72,10L41,53.846L10,75.769Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="75.76923076923077" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="53.846153846153854" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="46.53846153846153" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="134" cy="75.76923076923077" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="134" cy="83.07692307692307" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="68.46153846153845" r="2" fill="#106cbc"/>
                                 </g>
@@ -550,7 +546,7 @@ Dreams of pointer arithmetic at night</div>
                                     <text transform="translate(10,6)" x="41" y="53.846153846153854" fill="rgba(127, 127, 127, .8)">7</text>
                                     <text transform="translate(10,6)" x="72" y="10" fill="rgba(127, 127, 127, .8)">13</text>
                                     <text transform="translate(10,6)" x="103" y="46.53846153846153" fill="rgba(127, 127, 127, .8)">8</text>
-                                    <text transform="translate(10,6)" x="134" y="75.76923076923077" fill="rgba(127, 127, 127, .8)">4</text>
+                                    <text transform="translate(10,6)" x="134" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">3</text>
                                     <text transform="translate(10,6)" x="165" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">1</text>
                                     <text transform="translate(10,6)" x="196" y="68.46153846153845" fill="rgba(127, 127, 127, .8)">5</text>
                                 </g>
@@ -2812,10 +2808,11 @@ Dreams of pointer arithmetic at night</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    320 followers
+                    321 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFTklEQVR4nKWW6VcTVxjG+WOMiiBzJyyJTBKyZ4bMADEgJXho2QLHilQWt7pgFREFW6vYAAKJRSoECGUJYiQRhUCSBgSkbLIFAYGAUFmSbz0JFZQGpafnPB/ue+fO7z73znvfuW4QwocQAYQIgFObDZfhpmAa6rIfOOW2OWg3+vzIzaduuxyN0Pgp4SIOnbObud2+gHMK5eGDpbeX0o7ICBZMw74MhXewCWgoxAiCAgiYI1Kfky6nhi5JsfIQ5h/JktJQPqALAQ31R0N3hMIuPQYQ5OBYiHXYly2ayohbSsAWpFjPUfx5KJ5HCAGDgJghFO7h3UIBglJ5h4XfHId44YITV++X5FtSvlqSYtpITPMgp+5WBiqOBqIEiCXyxyOpHNGuoL6cYMAOhtjimIu5C9N963NGdWLkojTw96So1Wm93Wrq72rkxqZSQ6UwMwjQHPvwBSjriBRm4BAziB6dPjDQ3vrs0YsuXX6B7GbSyYYn1c979c0t1e0ddXWN5fDRNJgt8uGKwqIidoQC5+cKjksBdCHEEcfm5odUmdLNQ5Et/ZkDs4qp5dsjVkQzlNU7fMzwWiDXYCd/AByxDzsoKj4SfMYplYMDGgZogR6sUHCr6ohSm3712p3qSkz9KrPvbahuJEVrlikKEi9e5pS1eJ76GWKJAMPxyka2uHJKQ6lsIj4ulswK9mLgycWl4TGxyWcyuGiwvLfn/OMX57WGli5t2tnLJHc/yanvz+VchzhiMl14JjUZYRMwQ+gi+QEDZ3CJ1QlNXu5Vcbhk/a2+tvhaVFDIycTYEe2dN7WxQyWYxVxB8NDEsLBXOsXiaDPCwfNyr6xPPAmPkPhwt9LAbatA0AO9aZjp8b2/hmpURVnrz0pWK7ItZtXKtL5TdbP2a7/KBPZ0t2pxTDfVVrZWcd3WqSzKTl8eqjFrZJSAT46Z25ZTGhoeHtFZf3ehr7qtPHvN8sw+rrVbjXaraX3OYC6+Mtwst8+b7PNG+7zRNq57N1D/9P7FuZ7KPzWy1BPSHfc0gEcMa+5OmcomjI/GWgvsVoMDYTXa5k22eaPNgduAGsba7r8brJk0lU62y0d194JDxDAD3w4FCAoYBJkjyk6NGekotFuUlvZC+7zBbjWuzeht84a1mTbbXIczbFufbZ9sl9knKuzjj1423/spPRrhh4AAAvzbqTcuIbOC6vJOd+urZkyFvXU5S68bF4ebpl9Wz3Sr3k/opjsrVyZbZntrbDMv+upvzJoLh3vUDb/e6PgtiysUkYkIF1DYKRTFNcVXOssuPC25tNwqnzEopjoUFn3xm3aFpa1oVCtbbPplbVxtVmaZH5ytzc9slV8IEW4lE+wSChAUw3CCx5NlHFvprVrpVq6Oq9eccjTGGt6bHq6NqUebCupzkqoy4xMkYh/m1sJh1wWFRThOCAMXoMKxVsXqqHp1TP0pV23tre5/kF18+dswIbpxnD7nFPwjzJsjAvTApGjJYM2d2S7l8mDtykj9+9f1C30qi/5hv+puQ94lBtOZ3TQMpmO7q/x0bIOOBwbJr6V0KH/sbyrqbyp61Vjw+Gb6qZijvnQMOFcN/kvlx4A/ClH5/gGCNBHjOEqhUBg0fyZ2iPKdkOpF4UJUPvAXbEzsAgo+/MQ34oO+7H0H/Eh7ySQSvIcES/j0ouOseCaZ4gH5eUCnA73LkxEJ23cPCSaRAGkveZ+7n6cva1v9dNsMPtBRLyrX04fpAdMPQIj7wUPuntT9ntT9HhSHPCmO8OChAxDiAdM9vZleVC5APk6ej6DbereFW/Xho7vJDvvmXP5OF5v/o78BqX6BPHHvFVcAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwD/xAAwEAABAwMCAgkCBwAAAAAAAAABAgMEAAURBhIhQQcTFBUiMVFhcSMkMlOTobHR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAcEQACAgMBAQAAAAAAAAAAAAABAgARAxITISP/2gAMAwEAAhEDEQA/AG70FxLoLZI+KidQjWdxuc1nTLJchRFBtTjakAleASMk8s8q1wMBSxwoN2HHhNvqYlvRSpxxakNYwpSx5n38qlKaey3H9DUznQmopyZE21ataejz4u0glokkH1wPbz51Xd8Wv8x79Bf9Ui1AxaWb+6/N++dEdttTjrYXniTn0510ORpV2K053TEXuTnK46M1sYgwuIfLyOsaaz6QbfpVzs5aXKnlO8MpOAgct55VHQOk+Fc2n1X9yTbZIV9MwmwtC2+QIVniDnj71nuuFKe1rcetUpW18oGTyHhH7VW6dsdtuz0pqXEb2tsBaerGwg7k+nyas4q6+xQyFGsRTeNbQpE+QmJGkoiK/C66oFxRxxJH+0bbZHaILK2HRs24HhqCv7LcWa4hhO1O0HGSf5oJDriE4StQHzR5gChFuxY3P//Z" width="28" height="28" alt="" />
@@ -2839,7 +2836,6 @@ Dreams of pointer arithmetic at night</div>
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEEBQII/8QAJxAAAQMDAgQHAAAAAAAAAAAAAAECEQMEMQVhEhRRcRUhIiMyQ6H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8wAtafbNuaysfWbTaiTuvaVRJ7qhpP0agxtVfE7R/CiK3hqN9W2ZmNs9MgYYLfKeVVeYt/bn7PnE464/UKwHIBAEgEoB/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFCAP/xAAuEAABAwMCBQEHBQAAAAAAAAABAgMEBRESACEGBxMxQRQiIzJRYXGBCJOh4fD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADBBEhBTFR/9oADAMBAAIRAxEAPwDpqaXOonGwF03uoja+9ree2jTnDzSl8CqgQqVQpNVqEtsuk4KDbSQcRew3JPjb+RpFqssxRH93IcycuVMpywAG5I+X+76PeadDXMls1dAZB9MGi2pfvFAFRskefj8fnUWMVUkTRj1rY4Dcnjyc5nT+PWq0xU4DMCfTVthaWirscgbg9iFIN9+xGlSKh3op6qrr86g+AOGKdw4xUJcN71L9TKPVKulQCkgjAW32ub31fxzdlGwAt40oSR2TeFWwhPkxKlKkNVIR21tJQU5AugWG39aDed8ufDq9GrMaY+0+oOtAhWzdsNgO29zf56aJXCKpakuP8QVlSwLXuwNv2tZtQ5c06pIbbqNRqMpCTkkPJjrxP0u1pYbE1eVkri5AtYbHdj92IW/pwrL7XElSpMhaltyWBJTc39sHv9yFd/oNdF5K8DULSuXUKjSlu0mr1aG64npks9AAJ22CeliPhHjVLBpD8ZpSHKzUZSsic3gzl9vZbAt+NCfOx9XLTKyWuRdb1P/Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAID/8QAKhABAAEDAgQGAQUAAAAAAAAAAQIDBBEABRIhMUEGExQVIlHRI2FygZL/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDEiExMv/aAAwDAQACEQMRAD8ArHgUJ1CGe7rLgoUV/WJ47BqX9xrKM1U6Z0wsq3q6k1gCRZrJ5cjSbAgXDMbKTUb3N5aJAtYzaj1iOdDt3fRcRpOP5H50s9yQ5Uweya3ju9xExk/yajQyxygeSQN6I5lcW7UgB8opTxn+tdaO4W+4WtTha1MsYtxmtWzlxgAx9ulG9vl+GYVAGdaoQkvY/bQm0ybfw/vsoPE+UHy59zQy5tz0RN008htXxIy69XlnkOdGx3DbyEfVbpXjXTM4Qp8ZF+s8WoSyfMrR4wcS/GgLi6rVK85Tmquustt88mKoKsz/2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2884,7 +2880,7 @@ Dreams of pointer arithmetic at night</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2025, 00:07:48 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2025, 01:07:44 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
