@@ -86,7 +86,7 @@ Dreams of pointer arithmetic at night</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16193 Commits
+                            16194 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2348,7 +2348,7 @@ Dreams of pointer arithmetic at night</div>
                                     </svg>
                                     <div class="name">
                                         <span>vKexterPLv/Vulkan-Core-Kit</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VCK — small, no-magic Vulkan kit for Windows / Linux / macOS. Cross-platform window, live resize, AA auto-detect, structured logging, optional frame scheduler + VMM. One header, one namespace, every raw Vk handle exposed. Not an engine — you own the frame.</div>
@@ -2623,7 +2623,7 @@ Dreams of pointer arithmetic at night</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2026, 00:21:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2026, 01:20:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
