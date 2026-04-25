@@ -2353,7 +2353,7 @@ Dreams of pointer arithmetic at night</div>
                                     </svg>
                                     <div class="name">
                                         <span>vKexterPLv/Vulkan-Core-Kit</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VCK — small, no-magic Vulkan kit for Windows / Linux / macOS. Cross-platform window, live resize, AA auto-detect, structured logging, optional frame scheduler + VMM. One header, one namespace, every raw Vk handle exposed. Not an engine — you own the frame.</div>
@@ -2628,7 +2628,7 @@ Dreams of pointer arithmetic at night</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2026, 00:15:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2026, 01:19:00 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
