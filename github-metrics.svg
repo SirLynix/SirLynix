@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1582" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1600" class="">
     <defs>
         <style/>
     </defs>
@@ -66,7 +66,7 @@
                 <div class="row fill-width">
                     <section>
                         <div class="introduction">Engine / 3D developer.  
-Online developer at Gameloft.
+Engine and online developer at Gameloft.
 Teaches C++ and game networking to crying students.
 
 Dreams of pointer arithmetic at night</div>
@@ -2621,7 +2621,7 @@ Dreams of pointer arithmetic at night</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2026, 22:39:51 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2026, 23:36:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
